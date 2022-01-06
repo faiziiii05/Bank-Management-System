@@ -2,7 +2,7 @@
 
 C++ OOP project
 
-A complete bank management system in C++.
+A complete bank management system in C++ with OOP and file handling
 
 ## Roles
 
